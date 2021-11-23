@@ -47,6 +47,7 @@
     <Compile Include="Tables\Fis.cs" />
     <Compile Include="Tables\Kasa.cs" />
     <Compile Include="Tables\KasaHareket.cs" />
+    <Compile Include="Tables\OdemeTuru.cs" />
     <Compile Include="Tables\Stok.cs" />
     <Compile Include="Tables\StokHareket.cs" />
   </ItemGroup>
