@@ -50,6 +50,7 @@
     <Compile Include="Tables\OdemeTuru.cs" />
     <Compile Include="Tables\Stok.cs" />
     <Compile Include="Tables\StokHareket.cs" />
+    <Compile Include="Tables\Tanim.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
